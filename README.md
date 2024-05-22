@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">💡</h3>
 <div align="center">
   <a href="mailto:soyeonlee@gmail.com">
     <img
