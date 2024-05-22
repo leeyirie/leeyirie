@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:soyeonlee@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-FF5A5F?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/soyeon-lee-28717115b/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-2d72c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://velog.io/@leeyirie">
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/leeyirie/">
+    <img
+      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
