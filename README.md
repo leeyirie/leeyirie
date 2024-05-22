@@ -32,4 +32,7 @@ Here are some ideas to get you started:
     <img
       src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+    <a href="https://www.notion.so/leeyirie/d904cfa677824e3884bb0736b8d98221" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  </a>
 </div>
