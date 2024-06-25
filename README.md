@@ -25,6 +25,10 @@ Here are some ideas to get you started:
     <img
       src="https://img.shields.io/badge/LinkedIn-2d72c2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  </a>
+     <a href="https://codepen.io/soyeon-lee-the-typescripter" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a> 
   <a href="https://velog.io/@leeyirie">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
   </a>
@@ -34,5 +38,4 @@ Here are some ideas to get you started:
   </a>
     <a href="https://www.notion.so/leeyirie/d904cfa677824e3884bb0736b8d98221" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  </a>
 </div>
